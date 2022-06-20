@@ -5,7 +5,7 @@
 
 ## Pré-visualização:
 
-[alura-plus-responsivo]()
+[coffee-menu]()
 
 <div align="center"><img src="assets/coffee1.jpg" width=100%>
 </div># coffee-menu
