@@ -7,5 +7,5 @@
 
 [coffee-menu](https://coffee-menu.netlify.app/)
 
-<div align="center"><img src="assets/coffee1.jpg" width=100%>
-</div># coffee-menu
+<div align="center"><img src="assets/imagem-readme.jpeg" width=100%>
+</div>
