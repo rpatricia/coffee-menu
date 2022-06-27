@@ -1,5 +1,5 @@
 # Coffee Menu Responsivo
-### Website Alura Plus Responsivo
+### Website Coffee Menu Responsivo
 
  <p>Site responsivo usando HTML, CSS e JavaScript. Com cards interativos e modal.</p>
 
